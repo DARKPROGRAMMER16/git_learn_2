@@ -6,3 +6,4 @@ class dog:
 
 d1 = dog("labra","bruno","off_white")
 d2 = dog("pug","happy","brown")
+d3 = dog("husky","shine","white")
