@@ -5,3 +5,4 @@ class dog:
         self.color = color
 
 d1 = dog("labra","bruno","off_white")
+d2 = dog("pug","happy","brown")
